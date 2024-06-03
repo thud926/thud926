@@ -6,7 +6,7 @@ I've had several attempts at learning in-depth, and this time I need to stick wi
 
 My goal is to transition from industrial maintenance and turnaround work to developer/programmer.
 
--  I’m currently learning ... HTML5, CSS3, JavaScript, Bootstrap, Node, Express, PostgreSQL, and React.
+-  I’m currently learning: HTML5, CSS3, JavaScript, Bootstrap, Node, Express, PostgreSQL, and React.
 -  I'm re-learning the "Big 3" front-end languages and Bootstrap, the newer technoglogies for back-end (Node, Express, React, etc.) are new to me.
 -  I plan to dig into Python and other languages in the very near future.
 -  Languages, frameworks and other technologies I've previously learned the basics and have regretfully mostly forgotten during a 7 year hiatus:
@@ -22,3 +22,8 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 -  my email: thud926@gmail.com
 -  Current skills and tools:
 -  [![My Skills](https://skillicons.dev/icons?i=html,css,linux,mint,ubuntu,vscode,windows)](https://skillicons.dev)
+
+-  Goals:
+-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,mysql,nodejs,npm,express,postman,git,github,postgres,react,wordpress,py,java,ruby,cpp,linux,bash,docker,)](https://skillicons.dev)
+-  
+<br>[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thud926&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
