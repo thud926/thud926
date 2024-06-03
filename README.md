@@ -19,7 +19,7 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 -  I hope to take things a step further by learning Docker.
 
 -  I'll be updating parts of this repo and others as I learn.
--  my email: thud926@gmail.com
+- 
 -  Current skills and tools:
 -  [![My Skills](https://skillicons.dev/icons?i=html,css,linux,mint,ubuntu,vscode,windows)](https://skillicons.dev)
 
