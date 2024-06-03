@@ -6,6 +6,9 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 -  I’m currently learning ... HTML5, CSS3, JavaScript, Bootstrap, Node, Express, PostgreSQL, and React.
 -  I'm re-learning the "Big 3" front-end languages and Bootstrap, the back-end material is new to me.
 -  I plan to dig into Python and other languages in the very near future.
+-  Languages, frameworks and other technologies I've previously learned the basics and have regretfully mostly forgotten during a 7 year hiatus:
+-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,php,mysql,py,java,ruby,cpp,linux,bash)](https://skillicons.dev)
+-  Coding is absolutely a perishable skill.  Practice matters!
 -  I'm still not "guru-level" with Linux, but I have previously managed to use a dual-boot install for a few years without botching it too badly.
 
 -  Virtualbox has been quite a handy tool in learning my way around different flavors of Linux and other operating systems.
@@ -14,4 +17,5 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 
 -  I'll be updating parts of this repo and others as I learn.
 -  my email: thud926@gmail.com
-
+-  Current skills:
+-  [![My Skills](https://skillicons.dev/icons?i=html,css,linux)](https://skillicons.dev)
