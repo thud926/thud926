@@ -27,3 +27,4 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 -  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,mysql,nodejs,npm,express,postman,git,github,postgres,react,wordpress,py,java,ruby,cpp,linux,bash,docker,)](https://skillicons.dev)
 -  
 <br>[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thud926&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thud926&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
