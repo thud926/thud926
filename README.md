@@ -10,7 +10,7 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 -  I'm re-learning the "Big 3" front-end languages and Bootstrap, the newer technoglogies for back-end (Node, Express, React, etc.) are new to me.
 -  I plan to dig into Python and other languages in the very near future.
 -  Languages, frameworks and other technologies I've previously learned the basics and have regretfully mostly forgotten during a 7 year hiatus:
--  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,php,mysql,wordpress,py,java,ruby,cpp,linux,bash)](https://skillicons.dev)
+-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,mysql,wordpress,py,java,ruby,cpp,linux,bash)](https://skillicons.dev)
 -  Coding is <em>absolutely</em> a perishable skill.  Practice matters!
 -  I'm still not "guru-level" with Linux, but I have previously managed to use a dual-boot install for a few years without botching it too badly.
 
