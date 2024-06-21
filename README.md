@@ -23,6 +23,15 @@ My goal is to transition from industrial maintenance and turnaround work to deve
 -  Current skills and tools:
 -  [![My Skills](https://skillicons.dev/icons?i=html,css,linux,mint,ubuntu,vscode,windows)](https://skillicons.dev)
 
+-  Certificates:
+
+-  IBM: Introduction to Software Engineering
+-  https://coursera.org/share/5f27ace24ed47a85e25c59f5ad7ea6ae
+-  IBM: Introduction to HTML, CSS, & JavaScript
+-  https://coursera.org/share/f838b23df7eebc5f6c56d633c1257ca1
+-  IBM: Getting Started with Git and GitHub
+-  https://coursera.org/share/b506f5264a74a509a8e54b01352390c9
+-  
 -  Goals:
 -  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,mysql,nodejs,npm,express,postman,git,github,postgres,react,wordpress,py,java,ruby,cpp,linux,bash,docker,)](https://skillicons.dev)
 -  
